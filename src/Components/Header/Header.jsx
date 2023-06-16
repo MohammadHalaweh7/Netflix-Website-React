@@ -3,7 +3,7 @@ import "./Header.css";
 
 export default function Header({ title, description, height }) {
   return (
-    <div className="header" style={{ height: height + "vh" }}>
+    <div className="header" style ={{ height: height + "vh" }}>
       <div
         className={`d-flex justify-content-center align-items-center`}
         style={{ height: height + "vh" }}
