@@ -30,7 +30,7 @@ export default function Movies() {
 
         <div className="row">
           {movies.map((movie, index) => (
-            <div className="col-md-4 mb-4" key={index}>
+            <div className="col-md-2 mb-4" key={index}>
               <div className="card">
                 <img
                   src={urlImagePrefix + movie.poster_path}
