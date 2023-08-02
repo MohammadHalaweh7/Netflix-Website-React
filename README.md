@@ -4,13 +4,13 @@ Tools : React, Bootstrap, Css, Redux, Context, Routing
 
 ##Screenshots :
 
-![](./Screenshoots/1.jpg)
+![](./Screenshots/1.jpg)
 
-![](./Screenshoots/2.jpg)
+![](./Screenshots/2.jpg)
 
-![](./Screenshoots/3.jpg)
+![](./Screenshots/3.jpg)
 
-![](./Screenshoots/4.jpg)
+![](./Screenshots/4.jpg)
 
 # Getting Started with Create React App
 
